@@ -1,0 +1,1 @@
+# homebrew-navicat-for-postgresql
